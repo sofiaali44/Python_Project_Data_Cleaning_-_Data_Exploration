@@ -69,7 +69,7 @@ EDA was conducted to identify patterns, trends, and relationships within Netflix
 The dataset contains **6,131 movies and 2,676 TV shows**. Movies represent more than twice the number of TV shows, indicating that Netflix's library has a stronger focus on movie content.
 
 
-![image.png](attachment:image.png)
+![alt text](image-4.png)
 ---
 
 #### 2️⃣ The United States dominates Netflix content production 🇺🇸
@@ -77,7 +77,7 @@ The dataset contains **6,131 movies and 2,676 TV shows**. Movies represent more 
 The United States is the largest content-producing country in the dataset, with a substantial lead over other countries. It produces approximately **three times more content than India**, the second-highest producing country, showing the dominance of US-produced titles on Netflix.
 
 
-![image-3.png](attachment:image-3.png)
+![alt text](image-2.png)
 
 ---
 
@@ -85,8 +85,7 @@ The United States is the largest content-producing country in the dataset, with 
 
 The number of titles added to Netflix increased significantly between 2014 and 2019, reaching its highest point around 2019. This period represents a major expansion of Netflix's content library.
 
-![image-2.png](attachment:image-2.png)
-
+![alt text](image-3.png)
 ---
 
 #### 4️⃣ Netflix content is mainly targeted toward mature audiences 🔞
@@ -94,7 +93,7 @@ The number of titles added to Netflix increased significantly between 2014 and 2
 TV-MA is the most common rating with **3,207 titles**, followed by TV-14 with **2,160 titles**. This shows that a large portion of Netflix's content is designed for mature and teenage audiences.
 
 
-![image-4.png](attachment:image-4.png)
+![alt text](image-1.png)
 
 
 ---
@@ -103,8 +102,7 @@ TV-MA is the most common rating with **3,207 titles**, followed by TV-14 with **
 
 Genre analysis shows that **International Movies and Drama** are among the most common categories on Netflix, reflecting the platform's strategy of providing diverse content for a worldwide audience.
 
-![image-5.png](attachment:image-5.png)
-
+![alt text](image.png)
 ---
 
 ### ✅ Conclusion
