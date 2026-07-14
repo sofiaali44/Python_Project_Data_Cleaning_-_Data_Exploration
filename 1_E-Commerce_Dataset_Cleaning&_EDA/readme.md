@@ -63,7 +63,7 @@ After cleaning, the dataset was standardized by correcting data types, handling 
 * This trend may suggest the influence of seasonal shopping patterns and holiday-related purchases.
 
 ---
-1_E-Commerce_Dataset_Cleaning&_EDA/Monthly sales trend.png
+![alt text](image.png)
 
 #### 🏆 3. Dotcom Postage was the highest revenue-generating product.
 
